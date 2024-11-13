@@ -1,4 +1,4 @@
-Shestakov Anatoliy: 5 3 3 4
-Polyaev Dmitriy: 5 5 5 3 2 5 2
-Ivanova Anna: 2 2 5 3
-Ivanova Lena: 3 2 5 3 5
+Shestakov Anatoliy: 3 2 3 5 5 5 5
+Polyaev Dmitriy: 5 4 3 4 3 5 4 2 2
+Ivanova Anna: 4 4 2 3 5
+Ivanova Lena: 3 2 5 2 4
