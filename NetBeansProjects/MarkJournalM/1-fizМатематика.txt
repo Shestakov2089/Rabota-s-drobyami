@@ -1,0 +1,4 @@
+Shestakov Anatoliy: 2 5 2 2 2
+Polyaev Dmitriy: 4 3 2 5 5 3
+Ivanova Anna: 3
+Ivanova Lena: 3 3 5 3
